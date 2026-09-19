@@ -1,0 +1,9 @@
+{
+    "model": "FinBERT pretrained",
+    "dataset": "Financial PhraseBank",
+    "test_samples": 388,
+    "accuracy": 0.8762886597938144,
+    "precision_macro": 0.8362583111457998,
+    "recall_macro": 0.9073842221371996,
+    "f1_macro": 0.8641424414498404
+}

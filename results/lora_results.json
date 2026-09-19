@@ -1,0 +1,32 @@
+{
+    "model": "FinBERT + LoRA",
+    "dataset": "Financial PhraseBank",
+    "train_samples": 3097,
+    "validation_samples": 387,
+    "test_samples": 388,
+    "epochs": 3,
+    "training_steps": 582,
+    "final_training_loss": 0.21606879832408682,
+    "test_loss": 0.36249983310699463,
+    "accuracy": 0.8737113402061856,
+    "precision_macro": 0.842110263485365,
+    "recall_macro": 0.9059349467748806,
+    "f1_macro": 0.8679508762842096,
+    "confusion_matrix": [
+        [
+            48,
+            0,
+            1
+        ],
+        [
+            11,
+            193,
+            26
+        ],
+        [
+            2,
+            9,
+            98
+        ]
+    ]
+}

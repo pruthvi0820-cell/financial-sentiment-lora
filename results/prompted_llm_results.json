@@ -1,0 +1,9 @@
+{
+    "model": "FLAN-T5-base zero-shot",
+    "dataset": "Financial PhraseBank",
+    "test_samples": 388,
+    "accuracy": 0.39948453608247425,
+    "precision_macro": 0.6049297924297924,
+    "recall_macro": 0.6526658689004122,
+    "f1_macro": 0.39123791361403093
+}

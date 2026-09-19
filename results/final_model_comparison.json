@@ -1,0 +1,23 @@
+[
+    {
+        "Model": "FinBERT pretrained",
+        "Accuracy": 0.8762886597938144,
+        "Macro Precision": 0.8362583111457998,
+        "Macro Recall": 0.9073842221371996,
+        "Macro F1": 0.8641424414498404
+    },
+    {
+        "Model": "FinBERT + LoRA",
+        "Accuracy": 0.8737113402061856,
+        "Macro Precision": 0.842110263485365,
+        "Macro Recall": 0.9059349467748806,
+        "Macro F1": 0.8679508762842096
+    },
+    {
+        "Model": "FLAN-T5-base zero-shot",
+        "Accuracy": 0.39948453608247425,
+        "Macro Precision": 0.6049297924297924,
+        "Macro Recall": 0.6526658689004122,
+        "Macro F1": 0.39123791361403093
+    }
+]
